@@ -9,5 +9,3 @@ Olá, Bem vindo ao meu projeto de portfólio.
 * HTML
 
 * CSS
-
-* Flex-box
